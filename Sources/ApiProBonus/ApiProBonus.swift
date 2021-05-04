@@ -1,5 +1,9 @@
-struct ApiProBonus {
+
+
+public struct ApiProBonus {
     
-    
+    public init() {
+        
+    }
     
 }
